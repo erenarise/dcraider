@@ -1,0 +1,17 @@
+{
+  "name": "whisky-raid-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Whisky Lorean",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "whisky.db": "^0.1.5"
+  }
+}
